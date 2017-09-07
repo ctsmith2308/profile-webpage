@@ -1,0 +1,28 @@
+
+.background {
+  background: url('IMG_0016.JPG') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+  height: 75vh;
+}
+
+/*.jumbotron{
+  margin: 0;
+  background: url('20170126_100311.jpg') no-repeat center center fixed;
+}*/
+.nav-item{
+  color:#82C5C9;
+}
+h1{
+  /*padding-top: 300px;*/
+  font-size: 45px;
+}
+.navbar-brand{
+  color:#82C5C9;
+  font-size: 25px;
+}
+.heading{
+  margin-top: 175px;
+}
